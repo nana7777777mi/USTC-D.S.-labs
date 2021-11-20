@@ -1,0 +1,2 @@
+C:\AssWeCan\homework\datastruct\lab4\hfm_lab\Debug\hfm_lab.exe
+C:\AssWeCan\homework\datastruct\lab4\hfm_lab\Debug\hfm_lab.pdb

@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\AssWeCan\homework\datastruct\lab4\hfm_lab\main.cpp(119,7): warning C4101: “line”: 未引用的局部变量
+C:\AssWeCan\homework\datastruct\lab4\hfm_lab\main.cpp(401,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\AssWeCan\homework\datastruct\lab4\hfm_lab\main.cpp(402,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\AssWeCan\homework\datastruct\lab4\hfm_lab\main.cpp(403,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\AssWeCan\homework\datastruct\lab4\hfm_lab\main.cpp(487,14): warning C4477: “fscanf”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 2 拥有了类型“int *”
+C:\AssWeCan\homework\datastruct\lab4\hfm_lab\main.cpp(480,12): warning C4101: “HT”: 未引用的局部变量
+C:\AssWeCan\homework\datastruct\lab4\hfm_lab\main.cpp(456): warning C4715: “Traverse_R”: 不是所有的控件路径都返回值
+  hfm_lab.vcxproj -> C:\AssWeCan\homework\datastruct\lab4\hfm_lab\Debug\hfm_lab.exe
